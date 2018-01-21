@@ -1,0 +1,10 @@
+[user]
+	signingkey = 5B7D3F62F5F909E5
+	name = Joe Beaver
+	email = joseph.beaver@gmail.com
+[core]
+	editor = vim
+[credential]
+	helper = /usr/share/doc/git/contrib/credential/gnome-keyring/git-credential-gnome-keyring
+[commit]
+	gpgsign = true
